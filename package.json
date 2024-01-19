@@ -1,0 +1,22 @@
+{
+  "name": "cmpt315-lab2",
+  "version": "1.0.0",
+  "description": "A mini clone of the cmpt315-lab2 library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattchabbt/CMPT315-Lab2.git"
+  },
+  "keywords": [
+    "cmpt315-lab2"
+  ],
+  "author": "Matthew Abada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattchabbt/CMPT315-Lab2/issues"
+  },
+  "homepage": "https://github.com/mattchabbt/CMPT315-Lab2#readme"
+}

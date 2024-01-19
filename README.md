@@ -25,7 +25,7 @@ npm install @mattchabbt/CMPT315-Lab2
 Require it:
 **
 `
-const _ = require('@username/CMPT315-Lab2');
+const _ = require('@mattchatbbt/CMPT315-Lab2');
 `
 **
 Call it:
