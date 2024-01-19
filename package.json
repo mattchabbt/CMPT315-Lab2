@@ -1,5 +1,5 @@
 {
-  "name": "cmpt315-lab2",
+  "name": "@mattchabbt/cmpt315-lab2",
   "version": "1.0.0",
   "description": "A mini clone of the cmpt315-lab2 library",
   "main": "index.js",
