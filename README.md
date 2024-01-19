@@ -19,13 +19,13 @@ Usage
 Install it:
 **
 `
-npm install @username/<project-title>
+npm install @mattchabbt/CMPT315-Lab2
 `
 **
 Require it:
 **
 `
-const _ = require('@username/<project-title>');
+const _ = require('@username/CMPT315-Lab2');
 `
 **
 Call it:
