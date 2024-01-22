@@ -2,7 +2,7 @@
 const convert = require('./conversion.js');
 
 module.exports = {
-    convertToCelsius
+    convert
 }
 
 console.log(module.exports);
